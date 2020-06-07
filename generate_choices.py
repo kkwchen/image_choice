@@ -22,8 +22,9 @@ output = str(args.output)
 # types of images
 image_types = str(args.image_types)
 
-height = str(args.image_height)
 width = str(args.image_width)
+height = str(args.image_height)
+
 
 
 image_files = []
