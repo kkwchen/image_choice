@@ -8,7 +8,7 @@ python generate_choices.py -h
 
 run with source output filetypes
 
-for example, display images at 800 x 400
+for example, display images at width x height (800 x 400)
 
 python generate_choices.py images save ".png" 800 400
 
